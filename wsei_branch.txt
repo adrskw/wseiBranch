@@ -1,3 +1,5 @@
 Testowy plik - przykład pracy z branchami
 
+Przykład zmiany wprowadzonej na branchu 'test-branch-2'
+
 Przykład zmiany wprowadzonej na branchu 'test-branch-1'
