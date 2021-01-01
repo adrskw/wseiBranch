@@ -3,3 +3,5 @@ Testowy plik - przykład pracy z branchami
 Przykład zmiany wprowadzonej na branchu 'test-branch-2'
 
 Przykład zmiany wprowadzonej na branchu 'test-branch-1'
+
+Po zmergowaniu branchki 'test-branch-2' z 'main' i jej usunięciu historia zmian na niej nie będzie już dostępna
